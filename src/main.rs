@@ -10,6 +10,7 @@ mod processing;
 mod networking;
 mod file_ops;
 mod metrics;
+mod plugins;
 
 use crate::cli::Cli;
 use crate::config::Config;
