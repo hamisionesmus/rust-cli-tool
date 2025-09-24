@@ -7,6 +7,7 @@ mod cli;
 mod config;
 mod error;
 mod processing;
+mod networking;
 
 use crate::cli::Cli;
 use crate::config::Config;
