@@ -17,6 +17,7 @@ mod database;
 mod cicd;
 mod container;
 mod web;
+mod messaging;
 
 use crate::cli::Cli;
 use crate::config::Config;
