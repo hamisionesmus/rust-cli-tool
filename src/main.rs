@@ -9,6 +9,7 @@ mod error;
 mod processing;
 mod networking;
 mod file_ops;
+mod metrics;
 
 use crate::cli::Cli;
 use crate::config::Config;
