@@ -11,6 +11,7 @@ mod networking;
 mod file_ops;
 mod metrics;
 mod plugins;
+mod security;
 
 use crate::cli::Cli;
 use crate::config::Config;
