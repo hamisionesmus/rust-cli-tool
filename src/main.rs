@@ -13,6 +13,7 @@ mod metrics;
 mod plugins;
 mod security;
 mod cache;
+mod database;
 
 use crate::cli::Cli;
 use crate::config::Config;
