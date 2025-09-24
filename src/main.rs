@@ -20,6 +20,7 @@ mod web;
 mod messaging;
 mod config_management;
 mod ml;
+mod api_gateway;
 
 use crate::cli::Cli;
 use crate::config::Config;
