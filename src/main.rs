@@ -19,6 +19,7 @@ mod container;
 mod web;
 mod messaging;
 mod config_management;
+mod ml;
 
 use crate::cli::Cli;
 use crate::config::Config;
