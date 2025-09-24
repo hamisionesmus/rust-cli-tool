@@ -14,6 +14,7 @@ mod plugins;
 mod security;
 mod cache;
 mod database;
+mod cicd;
 
 use crate::cli::Cli;
 use crate::config::Config;
