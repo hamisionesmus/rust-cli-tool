@@ -16,6 +16,7 @@ mod cache;
 mod database;
 mod cicd;
 mod container;
+mod web;
 
 use crate::cli::Cli;
 use crate::config::Config;
