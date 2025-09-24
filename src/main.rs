@@ -21,6 +21,7 @@ mod messaging;
 mod config_management;
 mod ml;
 mod api_gateway;
+mod service_mesh;
 
 use crate::cli::Cli;
 use crate::config::Config;
