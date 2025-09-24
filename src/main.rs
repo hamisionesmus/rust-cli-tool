@@ -12,6 +12,7 @@ mod file_ops;
 mod metrics;
 mod plugins;
 mod security;
+mod cache;
 
 use crate::cli::Cli;
 use crate::config::Config;
