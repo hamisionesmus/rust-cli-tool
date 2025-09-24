@@ -18,6 +18,7 @@ mod cicd;
 mod container;
 mod web;
 mod messaging;
+mod config_management;
 
 use crate::cli::Cli;
 use crate::config::Config;
