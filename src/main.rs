@@ -22,6 +22,7 @@ mod config_management;
 mod ml;
 mod api_gateway;
 mod service_mesh;
+mod distributed_tracing;
 
 use crate::cli::Cli;
 use crate::config::Config;
