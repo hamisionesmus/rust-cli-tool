@@ -6,6 +6,7 @@ use tracing_subscriber::{layer::SubscriberExt, util::SubscriberInitExt};
 mod cli;
 mod config;
 mod error;
+mod processing;
 
 use crate::cli::Cli;
 use crate::config::Config;
