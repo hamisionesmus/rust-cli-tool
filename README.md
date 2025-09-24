@@ -405,7 +405,3 @@ Licensed under the Apache License 2.0. See [LICENSE](LICENSE) for details.
 - **Clap Maintainers**: For the powerful CLI library
 - **Serde Contributors**: For the amazing serialization framework
 - **Rust Community**: For the welcoming and helpful community
-
----
-
-**Built with ❤️ in Rust** - High performance meets developer productivity! 🚀
