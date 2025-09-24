@@ -23,6 +23,7 @@ mod ml;
 mod api_gateway;
 mod service_mesh;
 mod distributed_tracing;
+mod blockchain;
 
 use crate::cli::Cli;
 use crate::config::Config;
